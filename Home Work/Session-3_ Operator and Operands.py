@@ -2,7 +2,7 @@
 Nidhi loves to travel to different countries. She is now in a country where the
 temperature is measured in Fahrenheit and she is not able to understand it in a better way.
 To help her in this situation, write a program to convert temperature from Fahrenheit to celsius.
-Hint: (0°C × 9/5) + 32 = 32°F
+Hint: (0°C × 9/5) + 32 = 32°F #f-32*(9/5)
 """
 f=int(input("Farenheat = "))
 c=f-32*(9/5)
